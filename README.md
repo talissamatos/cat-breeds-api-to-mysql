@@ -1,5 +1,7 @@
 # Cat Breeds Catalog (The Cat API → MySQL, via Postman)
 
+<img width="2400" height="1254" alt="project_diagram" src="https://github.com/user-attachments/assets/d8457a83-e750-48fa-87c8-c4f020793192" />
+
 A hands-on portfolio project demonstrating **REST API consumption** and
 **SQL**. It is intentionally done without automation code: the goal is to
 understand every step of a data integration manually before automating it.
